@@ -1,8 +1,17 @@
 // Opgave 4 - Sessions og memcache
 
 // MacOS guide i Terminal for at starte memcached med 100 MB memory på port 11211
+// brew install memcached
+// brew services restart memcached
+// memcached -V
 // ps -few | grep memcached
 // /usr/local/opt/memcached/bin/memcached -m 100 -p 11211 -u daemon
+
+// Homebrew til MacOS
+// Link: https://brew.sh/ 
+
+// memcached på Windows
+// Link: https://linuxhint.com/install-memcached-windows/
 
 // npm init -y
 // npm install connect-memcached express-session
