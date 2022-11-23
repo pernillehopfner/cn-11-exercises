@@ -1,0 +1,24 @@
+{
+  "name": "cn-11-exercises",
+  "version": "1.0.0",
+  "description": "Opgave 1 og 2 ligger i filen opgave1.js",
+  "main": "opgave1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwndigi/cn-11-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwndigi/cn-11-exercises/issues"
+  },
+  "homepage": "https://github.com/mwndigi/cn-11-exercises#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1"
+  }
+}
